@@ -1,0 +1,14 @@
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\bin\Debug\net8.0\SingleResponsibilty.exe
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\bin\Debug\net8.0\SingleResponsibilty.deps.json
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\bin\Debug\net8.0\SingleResponsibilty.runtimeconfig.json
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\bin\Debug\net8.0\SingleResponsibilty.dll
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\bin\Debug\net8.0\SingleResponsibilty.pdb
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\obj\Debug\net8.0\SingleResponsibilty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\obj\Debug\net8.0\SingleResponsibilty.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\obj\Debug\net8.0\SingleResponsibilty.AssemblyInfo.cs
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\obj\Debug\net8.0\SingleResponsibilty.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\obj\Debug\net8.0\SingleResponsibilty.dll
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\obj\Debug\net8.0\refint\SingleResponsibilty.dll
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\obj\Debug\net8.0\SingleResponsibilty.pdb
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\obj\Debug\net8.0\SingleResponsibilty.genruntimeconfig.cache
+C:\Users\gasim\source\repos\SingleResponsibilty\SingleResponsibilty\obj\Debug\net8.0\ref\SingleResponsibilty.dll
